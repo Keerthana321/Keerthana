@@ -1,0 +1,12 @@
+Contacts
+Desktop
+Documents
+Downloads
+Favorites
+Links
+Music
+names.txt
+Pictures
+Saved Games
+Searches
+Videos
